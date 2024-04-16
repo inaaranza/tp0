@@ -26,7 +26,7 @@ int main(void) {
 			log_warning(logger,"Operacion desconocida. No quieras meter la pata");
 			break;
 		}
-	}
+	} 
 	return EXIT_SUCCESS;
 }
 

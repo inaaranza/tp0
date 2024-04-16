@@ -1,0 +1,113 @@
+[INFO] 23:06:34:833 cliente/(6826:6826): Soy un Log
+[INFO] 23:10:27:122 cliente/(7387:7387): Soy un Log
+[INFO] 23:20:00:885 cliente/(8185:8185): Soy un Log
+[INFO] 23:28:37:511 cliente/(9317:9317): Soy un Log
+[INFO] 23:30:18:747 cliente/(9526:9526): Soy un Log
+[INFO] 23:31:03:563 cliente/(9745:9745): Soy un Log
+[INFO] 23:32:05:717 cliente/(10006:10006): Soy un Log
+[INFO] 23:32:05:723 cliente/(10006:10006): valor
+[INFO] 23:32:05:723 cliente/(10006:10006): 4444
+[INFO] 23:32:05:723 cliente/(10006:10006): 127.0.0.1
+[INFO] 18:40:21:860 cliente/(2516:2516): Soy un Log
+[INFO] 18:40:21:863 cliente/(2516:2516): valor
+[INFO] 18:40:21:863 cliente/(2516:2516): 4444
+[INFO] 18:40:21:863 cliente/(2516:2516): 127.0.0.1
+[INFO] 18:46:22:866 cliente/(3651:3651): Soy un Log
+[INFO] 18:46:22:867 cliente/(3651:3651): valor
+[INFO] 18:46:22:867 cliente/(3651:3651): 4444
+[INFO] 18:46:22:867 cliente/(3651:3651): 127.0.0.1
+[INFO] 18:48:06:286 cliente/(3887:3887): Soy un Log
+[INFO] 18:48:06:290 cliente/(3887:3887): valor
+[INFO] 18:48:06:290 cliente/(3887:3887): 4444
+[INFO] 18:48:06:290 cliente/(3887:3887): 127.0.0.1
+[INFO] 18:54:57:202 cliente/(4390:4390): Soy un Log
+[INFO] 18:54:57:203 cliente/(4390:4390): valor
+[INFO] 18:54:57:205 cliente/(4390:4390): 4444
+[INFO] 18:54:57:205 cliente/(4390:4390): 127.0.0.1
+[INFO] 19:05:03:107 cliente/(4745:4745): Soy un Log
+[INFO] 19:05:03:110 cliente/(4745:4745): valor
+[INFO] 19:05:03:110 cliente/(4745:4745): 4444
+[INFO] 19:05:03:110 cliente/(4745:4745): 127.0.0.1
+[INFO] 19:07:40:733 cliente/(5052:5052): Soy un Log
+[INFO] 19:07:40:735 cliente/(5052:5052): valor
+[INFO] 19:07:40:735 cliente/(5052:5052): 4444
+[INFO] 19:07:40:735 cliente/(5052:5052): 127.0.0.1
+[INFO] 19:17:05:863 cliente/(5374:5374): Soy un Log
+[INFO] 19:17:05:866 cliente/(5374:5374): valor
+[INFO] 19:17:05:866 cliente/(5374:5374): 4444
+[INFO] 19:17:05:866 cliente/(5374:5374): 127.0.0.1
+[INFO] 19:17:44:564 cliente/(5550:5550): Soy un Log
+[INFO] 19:17:44:566 cliente/(5550:5550): valor
+[INFO] 19:17:44:566 cliente/(5550:5550): 4444
+[INFO] 19:17:44:566 cliente/(5550:5550): 127.0.0.1
+[INFO] 19:21:41:119 cliente/(5907:5907): Soy un Log
+[INFO] 19:21:41:119 cliente/(5907:5907): valor
+[INFO] 19:21:41:119 cliente/(5907:5907): 4444
+[INFO] 19:21:41:119 cliente/(5907:5907): 127.0.0.1
+[INFO] 20:25:59:307 cliente/(6720:6720): Soy un Log
+[INFO] 20:25:59:309 cliente/(6720:6720): valor
+[INFO] 20:25:59:309 cliente/(6720:6720): 4444
+[INFO] 20:25:59:309 cliente/(6720:6720): 127.0.0.1
+[INFO] 20:26:36:225 cliente/(6925:6925): Soy un Log
+[INFO] 20:26:36:227 cliente/(6925:6925): valor
+[INFO] 20:26:36:227 cliente/(6925:6925): 4444
+[INFO] 20:26:36:227 cliente/(6925:6925): 127.0.0.1
+[INFO] 20:26:57:725 cliente/(7115:7115): Soy un Log
+[INFO] 20:26:57:726 cliente/(7115:7115): valor
+[INFO] 20:26:57:726 cliente/(7115:7115): 4444
+[INFO] 20:26:57:726 cliente/(7115:7115): 127.0.0.1
+[INFO] 20:27:13:286 cliente/(7318:7318): Soy un Log
+[INFO] 20:27:13:287 cliente/(7318:7318): valor
+[INFO] 20:27:13:287 cliente/(7318:7318): 4444
+[INFO] 20:27:13:287 cliente/(7318:7318): 127.0.0.1
+[INFO] 20:27:30:478 cliente/(7469:7469): Soy un Log
+[INFO] 20:27:30:480 cliente/(7469:7469): valor
+[INFO] 20:27:30:480 cliente/(7469:7469): 4444
+[INFO] 20:27:30:480 cliente/(7469:7469): 127.0.0.1
+[INFO] 21:33:34:429 cliente/(8118:8118): Soy un Log
+[INFO] 21:33:34:431 cliente/(8118:8118): valor
+[INFO] 21:33:34:431 cliente/(8118:8118): 4444
+[INFO] 21:33:34:431 cliente/(8118:8118): 127.0.0.1
+[INFO] 21:34:36:711 cliente/(8401:8401): Soy un Log
+[INFO] 21:34:36:713 cliente/(8401:8401): valor
+[INFO] 21:34:36:713 cliente/(8401:8401): 4444
+[INFO] 21:34:36:713 cliente/(8401:8401): 127.0.0.1
+[INFO] 21:43:32:015 cliente/(9349:9349): Soy un Log
+[INFO] 21:43:32:017 cliente/(9349:9349): valor
+[INFO] 21:43:32:018 cliente/(9349:9349): 4444
+[INFO] 21:43:32:018 cliente/(9349:9349): 127.0.0.1
+[INFO] 21:43:36:520 cliente/(9349:9349): 44tr
+[INFO] 21:43:39:669 cliente/(9349:9349): pso
+[INFO] 01:43:06:862 cliente/(21362:21362): Soy un Log
+[INFO] 01:43:06:864 cliente/(21362:21362): valor
+[INFO] 01:43:06:864 cliente/(21362:21362): 4444
+[INFO] 01:43:06:864 cliente/(21362:21362): 127.0.0.1
+[INFO] 01:43:12:318 cliente/(21362:21362): aa
+[INFO] 01:53:47:182 cliente/(23218:23218): Soy un Log
+[INFO] 01:53:47:183 cliente/(23218:23218): valor
+[INFO] 01:53:47:183 cliente/(23218:23218): 4444
+[INFO] 01:53:47:183 cliente/(23218:23218): 127.0.0.1
+[INFO] 01:58:09:129 cliente/(23813:23813): Soy un Log
+[INFO] 01:58:09:131 cliente/(23813:23813): valor
+[INFO] 01:58:09:131 cliente/(23813:23813): 4444
+[INFO] 01:58:09:131 cliente/(23813:23813): 127.0.0.1
+[INFO] 02:00:44:320 cliente/(24410:24410): Soy un Log
+[INFO] 02:00:44:321 cliente/(24410:24410): valor
+[INFO] 02:00:44:321 cliente/(24410:24410): 4444
+[INFO] 02:00:44:321 cliente/(24410:24410): 127.0.0.1
+[INFO] 02:02:07:619 cliente/(24753:24753): Soy un Log
+[INFO] 02:02:07:621 cliente/(24753:24753): valor
+[INFO] 02:02:07:621 cliente/(24753:24753): 4444
+[INFO] 02:02:07:621 cliente/(24753:24753): 127.0.0.1
+[INFO] 02:03:07:490 cliente/(25108:25108): Soy un Log
+[INFO] 02:03:07:493 cliente/(25108:25108): valor
+[INFO] 02:03:07:494 cliente/(25108:25108): 4444
+[INFO] 02:03:07:494 cliente/(25108:25108): 127.0.0.1
+[INFO] 02:04:54:943 cliente/(25519:25519): Soy un Log
+[INFO] 02:04:54:945 cliente/(25519:25519): valor
+[INFO] 02:04:54:945 cliente/(25519:25519): 4444
+[INFO] 02:04:54:945 cliente/(25519:25519): 127.0.0.1
+[INFO] 02:12:51:981 cliente/(26177:26177): Soy un Log
+[INFO] 02:12:51:983 cliente/(26177:26177): valor
+[INFO] 02:12:51:983 cliente/(26177:26177): 4444
+[INFO] 02:12:51:983 cliente/(26177:26177): 127.0.0.1
